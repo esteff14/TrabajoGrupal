@@ -1,10 +1,6 @@
-public class Bidimensional extends Figuras {
-    //Constructor
-
-    public Bidimensional (float lado, int numLados)
-    {
+public class Bidimensional extends Figuras{
+    public Bidimensional(float lado, int numLados) {
         super(lado, numLados);
     }
 
-    
 }
