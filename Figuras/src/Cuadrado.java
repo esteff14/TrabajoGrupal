@@ -15,4 +15,8 @@ public class Cuadrado extends Bidimensional{
         double perimetro=this.lado*4;
         System.out.printf("El perimetro del cuadrado es: %.2f\n", perimetro);
     }
+    public void diagonal()
+    {
+        ;
+    }
 }
